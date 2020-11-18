@@ -1,0 +1,18 @@
+
+Hsquid:S1068",Remove this unused "LastName" private field.(ş‡àıÿÿÿÿ
+Csquid:S1068	"'Remove this unused "age" private field.(Æ†´¦şÿÿÿÿ
+Hsquid:S1068",Remove this unused "building" private field.(¼ì¥Öùÿÿÿÿ
+Esquid:S1068")Remove this unused "email" private field.(ª«Õìùÿÿÿÿ
+Dsquid:S1068"-Remove this unused "firstName" private field.(š„¦¿
+Hsquid:S1068"*Remove this unused "Salary" private field.(£‘¨8Ã—ÉÁá-
+@squid:S1068")Remove this unused "phone" private field.(À†½´
+Hsquid:S1068",Remove this unused "houseSno" private field.(·Œç¥úÿÿÿÿ
+Asquid:S1068"+Remove this unused "company" private field.(ö ¶r
+psquid:S00116"SRename this field "LastName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ş‡àıÿÿÿÿ
+psquid:S00116"QRename this field "Salary" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£‘¨8Ã—ÉÁá-
+>squid:S1068"(Remove this unused "type" private field.(¸ÄŞJ
+Asquid:S1068"*Remove this unused "street" private field.(›¸
+zsquid:UselessImportCheck"LRemove this unused import 'jdk.nashorn.internal.objects.annotations.Setter'.(µŠÚşÿÿÿÿ8„ÖÆÁá-
+Asquid:S1068
+"*Remove this unused "gender" private field.(¡ˆ¬â
+_squid:S00107"BConstructor has 12 parameters, which is greater than 7 authorized.( õìÙøÿÿÿÿ

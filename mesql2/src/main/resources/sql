@@ -1,0 +1,11 @@
+select * from user
+select * from user where id=77
+select * from user where age=66
+insert into user values(1,"test1",22)
+insert into user values(2,"test2",22)
+insert into user values(3,"test3",22)
+insert into user values(4,"test4",22)
+insert into user values(5,"test5",22)
+
+
+update user set age=16 where id=66

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="665.0" y="944.0">io.netty.bootstrap.Bootstrap</node>
+    <node x="0.0" y="1403.0">io.netty.bootstrap.ServerBootstrap.ServerBootstrapAcceptor</node>
+    <node x="259.00000000000006" y="977.0">io.netty.bootstrap.ServerBootstrap</node>
+    <node x="566.0" y="0.0">io.netty.bootstrap.AbstractBootstrap</node>
+    <node x="1058.0" y="1098.0">io.netty.bootstrap.AbstractBootstrap.PendingRegistrationPromise</node>
+    <node x="1380.0" y="0.0">io.netty.bootstrap.ChannelFactory</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="io.netty.bootstrap.ServerBootstrap" target="io.netty.bootstrap.AbstractBootstrap">
+      <point x="-5.6843418860808015E-14" y="-171.5" />
+      <point x="452.0" y="919.0" />
+      <point x="661.1666666666667" y="919.0" />
+      <point x="-190.33333333333337" y="447.0" />
+    </edge>
+    <edge source="io.netty.bootstrap.ServerBootstrap.ServerBootstrapAcceptor" target="io.netty.bootstrap.ServerBootstrap">
+      <point x="0.0" y="-50.5" />
+      <point x="0.0" y="171.5" />
+    </edge>
+    <edge source="io.netty.bootstrap.AbstractBootstrap.PendingRegistrationPromise" target="io.netty.bootstrap.AbstractBootstrap">
+      <point x="0.0" y="-50.5" />
+      <point x="1196.5" y="919.0" />
+      <point x="1041.8333333333335" y="919.0" />
+      <point x="190.33333333333348" y="447.0" />
+    </edge>
+    <edge source="io.netty.bootstrap.Bootstrap" target="io.netty.bootstrap.AbstractBootstrap">
+      <point x="0.0" y="-204.5" />
+      <point x="0.0" y="447.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.6000000000000001" x="356.16666666666663" y="990.4999999999999" />
+  <SelectedNodes>
+    <node>io.netty.bootstrap.AbstractBootstrap</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+    <Category>Inner Classes</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>protected</VISIBILITY>
+</Diagram>
+

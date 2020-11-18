@@ -1,0 +1,7 @@
+# Project exclude paths
+/chat/target/
+/jdbc/target/
+/mesql/target/
+/mesql2/target/
+/target/
+/tbaasutils/target/

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="tbaasutils" />
+        <module name="study" />
+        <module name="MQ" />
+        <module name="chat" />
+        <module name="mesql" />
+        <module name="mesql2" />
+        <module name="jdbc" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="simplechat" target="1.8" />
+      <module name="softmanagehomework" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

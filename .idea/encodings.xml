@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MQ/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MQ/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chat/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chat/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jdbc/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jdbc/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mesql/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mesql/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mesql2/DbUser.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mesql2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mesql2/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/simplechat/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/simplechat/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tbaasutils/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tbaasutils/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/test.txt" charset="UTF-8" />
+  </component>
+</project>
