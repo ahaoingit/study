@@ -22,7 +22,7 @@ contract Score{
     }
     mapping (address=>Customer) customer;//根据客户address查找
     mapping (bytes32=>Good) good;//根据商品Id查找该件商品
-    mapping (address=>Merchant) merchant;//根据商户de的 address查找
+    mapping (address=>Merchant) merchant;//根据商户的 address查找
     address[] customers;//已经注册的客户数组
     bytes32[] goods;//已经上线的商品数组
     address[] merchants;//已经上线的商品数组

@@ -1,13 +1,13 @@
 package com.ahao.designpatterns.builder;
 
-import lombok.*;
+import lombok.Data;
 
 /**
  * @author ahao
  */
 
 @Data
-public class Employee {
+public class Employee  {
     private String firstName;
     private String lastName;
     private int age;

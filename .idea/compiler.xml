@@ -16,9 +16,17 @@
         <module name="jdbc" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="simplechat" target="1.8" />
-      <module name="softmanagehomework" target="1.8" />
-    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_STRING" value="-parameters" />
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="MQ" options="" />
+      <module name="chat" options="" />
+      <module name="jdbc" options="" />
+      <module name="mesql" options="" />
+      <module name="mesql2" options="" />
+      <module name="studyworkspace" options="" />
+      <module name="tbaasutils" options="" />
+    </option>
   </component>
 </project>
